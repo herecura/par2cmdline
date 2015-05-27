@@ -1,13 +1,13 @@
 pkgbase = par2cmdline
 	pkgdesc = A PAR 2.0 compatible file verification and repair tool
-	pkgver = 0.6.12
+	pkgver = 0.6.13
 	pkgrel = 1
 	url = https://github.com/BlackIkeEagle/par2cmdline
 	arch = i686
 	arch = x86_64
 	license = GPL2
-	source = par2cmdline-0.6.12.tar.gz::https://github.com/BlackIkeEagle/par2cmdline/archive/v0.6.12.tar.gz
-	sha256sums = 1788aaab2cd7f760c4dc24c1d31a471a4b584fbbfa2a47f06f340b4d73480144
+	source = par2cmdline-0.6.13.tar.gz::https://github.com/BlackIkeEagle/par2cmdline/archive/v0.6.13.tar.gz
+	sha256sums = 024b9f0ed5c57ebdd633333b288818790b0d5c4ecc9c6296dc32ae3f98690abe
 
 pkgname = par2cmdline
 
