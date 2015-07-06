@@ -5,7 +5,7 @@
 
 pkgname=par2cmdline
 pkgver=0.6.13
-pkgrel=1
+pkgrel=2
 pkgdesc='A PAR 2.0 compatible file verification and repair tool'
 url='https://github.com/BlackIkeEagle/par2cmdline'
 license=('GPL2')

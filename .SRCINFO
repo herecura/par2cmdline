@@ -1,7 +1,7 @@
 pkgbase = par2cmdline
 	pkgdesc = A PAR 2.0 compatible file verification and repair tool
 	pkgver = 0.6.13
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/BlackIkeEagle/par2cmdline
 	arch = i686
 	arch = x86_64
