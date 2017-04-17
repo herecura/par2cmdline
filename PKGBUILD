@@ -5,11 +5,12 @@
 
 pkgname=par2cmdline
 pkgver=0.7.0
-pkgrel=1
+pkgrel=2
 pkgdesc='A PAR 2.0 compatible file verification and repair tool'
 url='https://github.com/BlackIkeEagle/par2cmdline'
 license=('GPL2')
 arch=('i686' 'x86_64')
+depends=('gcc-libs')
 source=("https://github.com/Parchive/$pkgname/releases/download/v$pkgver/$pkgname-$pkgver.tar.xz"
         "https://github.com/Parchive/$pkgname/releases/download/v$pkgver/$pkgname-$pkgver.tar.xz.sig")
 sha512sums=('5fed6f2c1f819617249e9b5d58489faf66f2728e4c63f4222b07136a31c022fe63633c93c7cf3e460bc436b15773672fad13fd857a49240f8ea2c04986914a75'
